@@ -1,0 +1,19 @@
+{
+  "uuid": "fd9831dd-4645-4868-9a39-6904c0d7f351",
+  "shortName": "Multiplatform Wscript",
+  "longName": "Multiplatform Wscript",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
